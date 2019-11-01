@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Nov 01 17:47:56 GMT-03:00 2019:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instância a816c00e-016e-28b9-805a-000021e296e8
+no diretório de banco de dados D:\eclipseOxygenWorkspace\arquillian-examples\arquillian-persistence-tutorial\target\databases\derby  
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_75-b13
+user.dir=D:\eclipseOxygenWorkspace\arquillian-examples\arquillian-persistence-tutorial
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
